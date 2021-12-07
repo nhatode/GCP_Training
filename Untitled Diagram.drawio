@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T01:43:28.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="zmmSwhAylzhZu9fwOxHL" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-07T01:46:31.357Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="ZJw4iZ39En8ROvxebRex" version="15.9.1" type="github">
   <diagram id="0_Z7ZZcVivASVU-mORX5" name="Page-1">
     <mxGraphModel dx="981" dy="745" grid="1" gridSize="11" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -183,7 +183,7 @@
         <mxCell id="FrZ-HkS9U0E8TO1mezzU-77" value="Scheduled Single &lt;br&gt;Data Factory&lt;br&gt;" style="aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/azure2/databases/Data_Factory.svg;dashed=1;fillColor=#00FF00;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="403.13" y="500" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="FrZ-HkS9U0E8TO1mezzU-80" value="&lt;font color=&quot;#000000&quot;&gt;Ingredient Architecture&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF3333;" vertex="1" parent="1">
+        <mxCell id="FrZ-HkS9U0E8TO1mezzU-80" value="&lt;font color=&quot;#000000&quot;&gt;Ingredient&amp;nbsp;Architecture&amp;nbsp;&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="415.13" y="22" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
